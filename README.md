@@ -6,8 +6,8 @@ The Goal of this simple MPV config is to save time of people who do not want to 
 
 <b>Installation</b>
 
-Simply copy all the files and put them in your mpv folder, which can be found in <code>~/.config/</code> for Unix-based OS'es. For Windows, search for <code>%appdata%</code> and create a folder named <code>mpv</code> if it does not exist already.
+Simply copy all the files and put them in your mpv folder, which can be found in <code>~/.config/</code> for Unix-based OS's. For Windows, search for <code>%appdata%</code> and create a folder named <code>mpv</code> if it does not exist already.
 
 <b>Usage</b>
 
-This config does not include personalized keybinds. <code>mpv/scripts/stats.lua</code> lets you see Information relevant to the file you are playing if you press <code>i</code> .
+This config does not include personalized keybinds. <code>stats.lua</code> lets you see Information relevant to the file you are playing if you press <code>i</code> .
