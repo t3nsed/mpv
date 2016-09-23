@@ -10,4 +10,4 @@ Simply copy all the files and put them in your mpv folder, which can be found in
 
 <b>Usage</b>
 
-This config does not include personalized keybinds. <code>stats.lua</code> lets you see Information relevant to the file you are playing if you press <code>i</code> .
+This config does not include personalized keybinds. <code>stats.lua</code> lets you see Information relevant to the file you are playing if you press the letter <code>i</code> .

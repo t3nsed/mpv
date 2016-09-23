@@ -87,7 +87,6 @@ local function set_ASS(b)
     return b and ass_start or ass_stop
 end
 
-
 local function no_ASS(t)
     return set_ASS(false) .. t .. set_ASS(true)
 end
